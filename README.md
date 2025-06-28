@@ -16,6 +16,12 @@
 
 </div>
 
+## 📌 Quick Links
+
+- 🎥 **[Watch Demo Video](https://youtu.be/vl4LmnvUDLk)**
+- 📖 **[Project Documentation](https://docs.google.com/document/d/1ODlJh5HljNkAiCwRj_h2wVcCdEqhIatW/edit?usp=sharing&ouid=117159323916616448933&rtpof=true&sd=true)**
+- 🎯 **[Project Presentation](https://docs.google.com/presentation/d/1M1lY6yVlMTBqqiPFh4A2fNrriBAffsI2/edit?usp=sharing&ouid=117159323916616448933&rtpof=true&sd=true)**
+
 ## 🌟 Features
 
 ### 📱 For Customers
