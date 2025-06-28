@@ -1,0 +1,25 @@
+{
+  "name": "book-nest",
+  "version": "1.0.0",
+  "description": "Book Nest - A Full Stack Book Store Application",
+  "scripts": {
+    "install:all": "cd code/Backend && npm install && cd ../Frontend && npm install",
+    "start:backend": "cd code/Backend && npm start",
+    "start:frontend": "cd code/Frontend && npm run dev",
+    "dev:backend": "cd code/Backend && npm run dev",
+    "dev:frontend": "cd code/Frontend && npm run dev",
+    "test:backend": "cd code/Backend && npm test",
+    "test:frontend": "cd code/Frontend && npm test",
+    "build:frontend": "cd code/Frontend && npm run build"
+  },
+  "keywords": [
+    "bookstore",
+    "ecommerce",
+    "react",
+    "node",
+    "express",
+    "mongodb"
+  ],
+  "author": "",
+  "license": "MIT"
+} 
